@@ -20,7 +20,7 @@ int epar(int x)
 
     int num;
     printf("digite um numero: ");
-    scanf("%d",&num); // & operador de endereço.
+    scanf("%d",&num); // & operador de endereï¿½o.
 
     if(epar(num) == 1)
     {
@@ -28,7 +28,7 @@ int epar(int x)
     }
     else
     {
-        printf("**NUMERO IMPAR\n");
+        printf("**NUMERO eh IMPAR POOH\n");
     }
 
     return 0;
